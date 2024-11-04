@@ -1,0 +1,4 @@
+"AadClientId": "ae706f33-7e5a-4689-9cad-05b1f1016132",
+"AadSecret": "efW8Q~8OS4F8_gt8owvst4rajwl3cgJzH49ZKaK.",
+"AadTenantDomain": "MODERNCOMMS217761.onmicrosoft.com",
+"AadTenantId": "55274127-54e3-49ed-b83d-519ae69cfd08"
